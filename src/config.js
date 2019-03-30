@@ -2,7 +2,7 @@
 // To se the latest configuration fetch it from https://api.themoviedb.org/3/configuration?api_key=019e8f375549e0bbd4a4191862ebc88f
 
 const API_URL = 'https://api.themoviedb.org/3/';
-const API_KEY = '844dba0bfd8f3a4f3799f6130ef9e335';
+const API_KEY = '6db3cd67e35336927891a72c05c595cc';
 
 // Images
 // An image URL looks like this example:
